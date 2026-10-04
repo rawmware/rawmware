@@ -2,7 +2,11 @@
 
 # Hi, I'm Roman 👋
 
+📍 NH Seacoast | 🤖 AI tool builder | 🎨 Teaching machines taste
+
 **I build open-source tools that give AI taste — and teach tech for free.**
+
+Now: turning [TZ-taste](https://github.com/rawmware/TZ-taste) into the free design reference every AI agent points at.
 
 [![Instagram](https://img.shields.io/badge/Instagram-@romansproposal-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/romansproposal)
 [![Threads](https://img.shields.io/badge/Threads-@romansproposal-000000?logo=threads&logoColor=white)](https://www.threads.com/@romansproposal)
