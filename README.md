@@ -1,6 +1,6 @@
 <div align="center">
 
-# yo I'm roman i make things sometimes {*_*}
+# yo I'm roman i make things sometimes { * _ * }
 
 
 [![Instagram](https://img.shields.io/badge/Instagram-RawmWare-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/rawmware)
